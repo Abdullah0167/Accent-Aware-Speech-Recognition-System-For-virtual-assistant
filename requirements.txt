@@ -1,0 +1,6 @@
+torch
+torchaudio
+librosa
+transformers
+speechbrain
+flask
